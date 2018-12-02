@@ -2,7 +2,7 @@
 - Turtlebot RRT exploration and target detection using SIFT
 
 ## Setup
-- to bringup Turtlebot and perform mapping and localization run: ```roslaunch robot_explorer setup.launch```
+- to bringup Turtlebot and perform mapping and path planning with visualizer run: ```roslaunch robot_explorer setup.launch```
 
 ## Laser Scanner
 - check for usb connectivity by running:```ls -l /dev/ttyACM0```
