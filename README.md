@@ -1,5 +1,5 @@
 ## robot-exploration
-- Turtlebot Rapidly Explorting Random Tree and target detection using SIFT
+- Turtlebot Rapidly Explorting Random Tree (RRT) path planning and target detection using SIFT
 
 ## Setup
 - to bringup Turtlebot and perform mapping and path planning with visualizer run: ```roslaunch robot_explorer setup.launch```
