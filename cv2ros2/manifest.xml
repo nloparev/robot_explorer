@@ -1,0 +1,28 @@
+<package>
+  <description brief="cv2ros2">
+
+     cv2ros2
+
+  </description>
+  <author>""</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cv2ros2</url>
+  <depend package="roslib"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
+  <depend package="opencv2"/>
+
+</package>  
+
+
+<depend package="cv_bridge"/>
+
+</package>
+
+
+ 
